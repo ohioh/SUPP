@@ -1,6 +1,9 @@
-# Hugo template for Netlify CMS with Netlify Identity
+# Seagrass underwater planting project homepage
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+We are presenting the homepage with a serverless setup.This saves energy and CO².
+You can join the page under www.sup2.de
+For contact write me: tjark.ziehm@ohioh.de
+
 
 ## Getting started
 
@@ -44,3 +47,6 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+This page was  built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+
