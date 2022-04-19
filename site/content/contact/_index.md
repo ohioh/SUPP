@@ -9,8 +9,10 @@ contact_entries:
 ---
 
 We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+questions. We love the way of beeing opendata and opensource.
+We try to minimize each barriere to get in touch with us.
+The best and easiest way is to get in touch straight via phone.
+Call us +49 152 241 22 031 .
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
